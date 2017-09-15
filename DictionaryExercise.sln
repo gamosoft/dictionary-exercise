@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIIT.Utilities", "NIIT.Utilities\NIIT.Utilities.csproj", "{3EEEB808-C490-4A53-9E5A-1DB65668A7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIIT.Tests", "NIIT.Tests\NIIT.Tests.csproj", "{EFE3E755-BCC0-49CB-B124-0F063FBBF7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEEB808-C490-4A53-9E5A-1DB65668A7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEEB808-C490-4A53-9E5A-1DB65668A7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEEB808-C490-4A53-9E5A-1DB65668A7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEEB808-C490-4A53-9E5A-1DB65668A7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE3E755-BCC0-49CB-B124-0F063FBBF7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE3E755-BCC0-49CB-B124-0F063FBBF7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE3E755-BCC0-49CB-B124-0F063FBBF7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE3E755-BCC0-49CB-B124-0F063FBBF7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBA5FCA-486A-433A-A55D-1018DF1772EC}
+	EndGlobalSection
+EndGlobal
